@@ -7,7 +7,7 @@ public class Marry_me
 
 		        switch (proposalStatus) {
 		            case 1:
-		                System.out.println("Will you marry me? 💗");
+		                System.out.println("Will you marry me? bulli");
 		                break;
 		            default:
 		                System.out.println("Unexpected proposal status");
