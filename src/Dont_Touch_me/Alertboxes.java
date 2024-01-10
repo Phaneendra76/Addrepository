@@ -9,6 +9,7 @@ public class Alertboxes {
 	{
        WebDriver driver=new ChromeDriver();
        driver.get("https://demo.automationtesting.in/Alerts.html");
+       
 	}
 
 }
